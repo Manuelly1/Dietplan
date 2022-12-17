@@ -4,6 +4,7 @@ Departamento de Computação e Tecnologia
 Bacharelado em Sistemas de Informação
 
 Disciplina DCT1101 - Algoritmos e lógica de programação
+
 Developed by @Manuelly1 and @DayXL
 
 ## Finalidade
