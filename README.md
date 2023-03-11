@@ -22,10 +22,10 @@ O projeto consiste em um programa de cadastro de receitas com base em dietas esp
 Esse projeto está sob a licença MIT.
 
 ---
-### Universidade Federal do Rio Grande do Norte
+#### Universidade Federal do Rio Grande do Norte
 
-### Departamento de Computação e Tecnologia
+#### Departamento de Computação e Tecnologia
 
-###Bacharelado em Sistemas de Informação
+#### Bacharelado em Sistemas de Informação
 
 Feito por @Manuelly1 e @DayXL
